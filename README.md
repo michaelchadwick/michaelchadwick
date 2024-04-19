@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hello! My name is Michael Chadwick, a.k.a. Nebyoolae, and I'm both a software dev and audio guy
-- 🎵 I like to make patterned, and sometimes unpatterned, air movements, and that interest crosses over into coding often
-- 🌱 I mainly do webdev, as I like seeing the fruits of my labor instantly and having it accessible anywhere Internet exists
-- 💬 Besides learning programming languages, I also really enjoy learning human languages, and am pretty active on [Duolingo](https://www.duolingo.com/profile/nebyoolae)
+- 👋 Hello! My name is Michael Chadwick, a.k.a. Nebyoolae, and I'm both a software dev and audio guy.
+- 🎵 Making patterned, and sometimes unpatterned, air movements is fun. It crosses over into coding often.
+- 🌱 I mainly do webdev, as I like seeing the fruits of my labor instantly and having it accessible anywhere Internet exists. Currently learning [EmberJS](https://emberjs.com).
+- 💬 Besides learning programming languages, I also really enjoy learning human languages, and am pretty active on [Duolingo](https://www.duolingo.com/profile/nebyoolae).
 - 📫 How to reach me: 🐘 https://masto.neb.host/@nebyoolae or ✉️ mike@neb.host
