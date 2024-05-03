@@ -1,4 +1,4 @@
-### Hello, Hola, Oi, Bonjour, Hallo, やあ, and 嘿!
+### Hello, Hola, Oi, Bonjour, Hallo, Hej, やあ, and 嘿!
 
 <!--
 **michaelchadwick/michaelchadwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
